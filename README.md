@@ -2,7 +2,7 @@
 The React and Redux Blog Page project is a web application that provides a user-friendly interface for managing a blog. It incorporates real-time API integration to fetch and display blog posts, enabling users to perform CRUD (Create, Read, Update, Delete) operations on posts. The application utilizes React, Redux for state management, Axios for API requests, React Hooks for component logic, and includes features like a search bar, author list, and various CRUD functionalities.
 
 ### Git Hub link : [check out the source code for this project](https://github.com/Maregowda/react-redux-blog-app/)
-### Deployed Project: [Check out the live project here](https://playful-flan-b24c3d.netlify.app/)
+### Deployed Project: [Check out the live project here](https://64ea228e1bdfaf00083a6b55--playful-flan-b24c3d.netlify.app/)
 
 # Technologies Used
 * React: A JavaScript library for building user interfaces.
